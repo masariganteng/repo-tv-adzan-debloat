@@ -1,0 +1,5 @@
+#!/bin/sh
+D="$(cd "$(dirname "$0")/.." && pwd)"
+PY="$D/.venv/bin/python"
+[ -x "$PY" ] || PY="$D/.venv/Scripts/python"   # Windows venv layout
+exec "$PY" "$D/tools/tv.py" "$@"

@@ -1,0 +1,8 @@
+package:id.co.bankgresik.kiosk
+package:com.lonelycatgames.Xplore
+package:com.mobisystems.fileman
+package:com.tcl.browser
+package:com.live_streaming_tv.online_tv
+package:com.wbd.stream
+package:com.ihsan.tvshare
+package:com.hisense.odinbrowser
